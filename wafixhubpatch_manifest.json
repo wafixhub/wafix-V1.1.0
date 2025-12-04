@@ -1,15 +1,9 @@
 {
   "app_name": "WaFIX Hub Patch",
-
-  "current_version": "3.19.3",
-
+  "current_version": "3.20.0",
   "download_url": "https://raw.githubusercontent.com/wafixhub/wafix/refs/heads/main/wafixhub_v1.enc",
-
-  "release_key": "2025-12-01_123",
-
-  "update_salt": "RND_1_2_3_XsqZ",
-
+  "release_key": "2025-12-05_UPDATE",
+  "update_salt": "SECURE_SALT_V2",
   "sha256": "PUT_SHA256_HASH_HERE",
-
-  "notes": "Fix for WAFIX_HUB."
+  "notes": "version 3.20.0 Updates:\n\n• New Feature: Added new settings interface.\n• Fix: Resolved activation issue on some devices.\n• Security: Improved encryption logic.\n• UI: Better layout for high DPI screens.\n\nThank you for using WaFIX Hub!"
 }
