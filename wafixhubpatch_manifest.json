@@ -1,7 +1,7 @@
 {
   "app_name": "WaFIX Hub Patch",
   "current_version": "3.19.3",
-  "download_url": "https://raw.githubusercontent.com/wafixhub/wafix/refs/heads/main/wafixhub_v1.enc",
+  "download_url": "https://raw.githubusercontent.com/wafixhub/wafix-V1.1.0/refs/heads/main/wafixhub_v1.enc",
   "release_key": "2025-12-01_123",
   "notes": "✅ You are currently using the latest version.\n\nIf you encounter any issues, please check this section for new updates or hotfixes."
 }
