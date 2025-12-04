@@ -1,0 +1,15 @@
+{
+  "app_name": "WaFIX Hub Patch",
+
+  "current_version": "3.19.3",
+
+  "download_url": "https://raw.githubusercontent.com/wafixhub/wafix/refs/heads/main/wafixhub_v1.enc",
+
+  "release_key": "2025-12-01_123",
+
+  "update_salt": "RND_1_2_3_XsqZ",
+
+  "sha256": "PUT_SHA256_HASH_HERE",
+
+  "notes": "Fix for WAFIX_HUB."
+}
