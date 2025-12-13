@@ -1,7 +1,7 @@
 {
   "app_name": "WaFIX Hub Patch",
-  "current_version": "3.19.41",
+  "current_version": "3.19.42",
   "download_url": "https://raw.githubusercontent.com/wafixhub/wafix-V1.1.0/refs/heads/main/wafixhub_v1.enc",
-  "release_key": "2025-12-04_1301",
-  "notes": "edit message result.\n\nFixed delete chat function to no lid migrated sessions."
+  "release_key": "2025-12-13_0703",
+  "notes": "Fixed a bug in the Auto-Reply system where the Welcome Message was not being sent.\n\nImproved general stability for better performance."
 }
