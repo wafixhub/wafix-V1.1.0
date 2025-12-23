@@ -1,7 +1,7 @@
 {
   "app_name": "WaFIX Hub Patch",
-  "current_version": "3.19.44",
+  "current_version": "3.19.45",
   "download_url": "https://raw.githubusercontent.com/wafixhub/wafix-V1.1.0/refs/heads/main/wafixhub_v1.enc",
-  "release_key": "2025-12-13_1653",
-  "notes": "V3.19.44 - 13.12.2025\n\nFixed critical issues preventing Welcome Messages, Quick Replies, and Media files from being sent to new number formats (Ad leads).\nOptimized the system to fully support the new WhatsApp ID standards for maximum stability."
+  "release_key": "2025-12-23_0200",
+  "notes": "V3.19.45 - 23.12.2025\n\n- Comprehensive fix for Welcome Messages and Quick Replies to ensure media and messages are delivered successfully to new numbers and Ad leads, including a fix for messaging users selected via Labels.\n- New organized UI: Added a smart folding feature for the Quick Reply buttons to save screen space, with a pinning option for quick and easy access."
 }
